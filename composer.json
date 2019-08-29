@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "tarundubey\\LaravelPrometheusExporter\\": "src/",
+      "TarunDubey\\LaravelPrometheusClient\\": "src/",
       "Tests\\": "tests/"
     }
   },
@@ -25,10 +25,10 @@
     },
     "laravel": {
       "providers": [
-        "tarundubey\\LaravelPrometheusExporter\\PrometheusServiceProvider"
+        "Tarundubey\\LaravelPrometheusClient\\PrometheusServiceProvider"
       ],
       "aliases": {
-        "Prometheus": "tarundubey\\LaravelPrometheusExporter\\PrometheusFacade"
+        "Prometheus": "Tarundubey\\LaravelPrometheusClient\\PrometheusFacade"
       }
     }
   },
