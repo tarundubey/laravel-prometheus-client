@@ -1,5 +1,5 @@
 {
-  "name": "tarundubey/laravel-prometheus-exporter-redis",
+  "name": "tarundubey/laravel-prometheus",
   "description": "A prometheus exporter for Laravel",
   "license": "proprietary",
   "authors": [
