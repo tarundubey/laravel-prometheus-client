@@ -1,5 +1,5 @@
 {
-  "name": "tarundubey/laravel-prometheus",
+  "name": "tarundubey/laravel-prometheus-client",
   "description": "A prometheus exporter for Laravel",
   "license": "proprietary",
   "authors": [
